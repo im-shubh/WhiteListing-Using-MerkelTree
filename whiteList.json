@@ -1,0 +1,27 @@
+{
+  "whiteList": [
+    {
+      "address": "0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db",
+      "leaf": "0x04a10bfd00977f54cc3450c9b25c9b3a502a089eba0097ba35fc33c4ea5fcb54",
+      "proof": [
+        "0x999bf57501565dbd2fdcea36efa2b9aef8340a8901e3459f4a4c926275d36cdb",
+        "0x5931b4ed56ace4c46b68524cb5bcbf4195f1bbaacbe5228fbd090546c88dd229"
+      ]
+    },
+    {
+      "address": "0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2",
+      "leaf": "0x999bf57501565dbd2fdcea36efa2b9aef8340a8901e3459f4a4c926275d36cdb",
+      "proof": [
+        "0x04a10bfd00977f54cc3450c9b25c9b3a502a089eba0097ba35fc33c4ea5fcb54",
+        "0x5931b4ed56ace4c46b68524cb5bcbf4195f1bbaacbe5228fbd090546c88dd229"
+      ]
+    },
+    {
+      "address": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+      "leaf": "0x5931b4ed56ace4c46b68524cb5bcbf4195f1bbaacbe5228fbd090546c88dd229",
+      "proof": [
+        "0x39a01635c6a38f8beb0adde454f205fffbb2157797bf1980f8f93a5f70c9f8e6"
+      ]
+    }
+  ]
+}
